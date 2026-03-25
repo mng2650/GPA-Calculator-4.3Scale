@@ -21,7 +21,7 @@ This tool allows users to input courses, assign grades and credits, and instantl
 
 ## 🖥️ Demo
 
-https://mellifluous-pika-4e66e9.netlify.app/
+https://gpa-calculator-michael-nsengiyumva.netlify.app/
 
 ---
 
