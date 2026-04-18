@@ -104,29 +104,3 @@ gpa-calculator/
 
 ---
 
-## 📌 Future Improvements
-
-* Save/load courses (localStorage)
-* Export results (PDF/CSV)
-* Mobile UI enhancements
-* Support for other GPA scales (4.0, 5.0, etc.)
-* Dark mode 🌙
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repo
-2. Create a new branch
-3. Make your changes
-4. Submit a pull request
-
----
-
-## 📄 License
-
-This project is open source and available under the **MIT License**.
-
----
