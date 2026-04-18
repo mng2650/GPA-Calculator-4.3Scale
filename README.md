@@ -104,6 +104,6 @@ gpa-calculator/
 
 ---
 ## Author
-
-** Michael Nsengiyumva**
+ 
+ Michael Nsengiyumva
 
