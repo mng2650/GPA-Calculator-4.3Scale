@@ -103,4 +103,7 @@ gpa-calculator/
 * Vanilla JavaScript
 
 ---
+## Author
+
+** Michael Nsengiyumva**
 
